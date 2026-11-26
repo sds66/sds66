@@ -37,7 +37,7 @@
 ## 📫 联系我
 
 - GitHub: [@sds66](https://github.com/sds66)
-- 邮箱: `你的邮箱@example.com` ← 记得改成你自己的
+- 联系: 通过 GitHub 私信找我
 
 ## ⭐ 彩蛋
 
